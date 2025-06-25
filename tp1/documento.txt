@@ -1,3 +1,0 @@
-Este é um arquivo de texto de exemplo para teste do protocolo.
-Linha 2 do documento de teste.
-Fim do arquivo de teste.
