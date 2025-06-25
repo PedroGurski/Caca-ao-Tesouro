@@ -1,0 +1,8 @@
+make                   # Compila tudo e configura ambiente
+make all               # Mesmo que acima
+make servidor          # Compila apenas o servidor
+make cliente           # Compila apenas o cliente
+
+make run-servidor                          # Executa servidor
+make run-cliente                           # Executa cliente (localhost)
+make run-cliente-custom IP=192.168.1.100   # Cliente com IP específico
